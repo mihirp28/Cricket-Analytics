@@ -21,3 +21,29 @@ The owners and the management of Mumbai Indians want to identify the best possib
 | Numpy | Python library for creating arrays |
 | Pandas | python library for data manipulation and analysis |
 | PowerBI | Used for creating Dashboard |
+
+
+### Dashboard
+**Batsman and Bowler Dashboard**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/4e959818-2ddd-4002-9c7b-b0c4df2bf5ad)
+
+**Individual Dashboard**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/6fe4558b-f1a2-47c6-aa41-e1b583d8a7bf)
+
+**Team Dashboard**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/bcb5147a-1f4e-4cae-8b3c-8145b6594d45)
+
+**Batsman Analysis**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/89620917-6544-4b9f-a482-38a96c361f35)
+
+**Bowler Analysis**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/93591efa-fbbb-4525-ba1d-7d18ae4987cd)
+
+**Individual Batsman Analysis**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/6dc52878-6e20-48d5-9819-79e552034f3b)
+
+**Individual Bowler Analysis**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/5e7472f1-8906-4d82-b852-639414ca5903)
+
+**Team Analysis**
+![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/0d1ccd32-2adb-4940-ba95-93ee627e51fd)
