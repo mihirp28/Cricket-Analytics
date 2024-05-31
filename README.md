@@ -24,6 +24,7 @@ The owners and the management of Mumbai Indians want to identify the best possib
 
 
 ### Dashboard
+
 **Batsman and Bowler Dashboard**
 ![image](https://github.com/mihirp28/Cricket-Analytics/assets/100679247/4e959818-2ddd-4002-9c7b-b0c4df2bf5ad)
 
