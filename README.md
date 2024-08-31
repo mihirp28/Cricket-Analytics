@@ -1,4 +1,6 @@
-# Cricket Analytics using Python and PowerBI
+# Cricket Analytics using Python and PowerBI 
+Live Demo- Cricket analytics
+ (https://app.powerbi.com/view?r=eyJrIjoiNTM1N2FlMDItMjAxYi00OGQ1LTkzMDYtMmE4YzM4YjgyZmU3IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D&pageName=ReportSection5cd692145c4a88a61c02)
 Over the past decade, the adoption of analytics has significantly improved results across all sports. In this project, we aim to replicate how computer analysts working with IPL teams identify the best batsmen and bowlers for their team. Data analysis assists IPL teams in answering crucial questions such as: “Should they invest in a particular player or not?” and “How valuable will the player be for the team?” It also helps them determine in detail, “Which player should they buy and which one should they avoid?”, “How much should they spend on each player?” and “What are the values of the different players?”
 
 Remarkably, IPL teams have begun using data analysis for making better decisions.
